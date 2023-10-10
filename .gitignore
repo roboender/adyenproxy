@@ -1,0 +1,6 @@
+node_modules/
+*.enc
+*.pem
+*.cert
+*.sandbox
+*.production
